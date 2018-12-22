@@ -1,0 +1,21 @@
+footer {
+  text-align: center;
+  color: red; }
+
+.main-sec {
+  text-align: center;
+  color: red; }
+
+body {
+  background: green; }
+  body h2 {
+    color: yellow;
+    font-size: 18px;
+    margin: 10px 0; }
+  body p {
+    color: #fff;
+    margin: 10px 0; }
+  body .top-header {
+    background: #5d0101; }
+
+/*# sourceMappingURL=style.css.map */

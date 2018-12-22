@@ -1,0 +1,22 @@
+$main-bg: green;
+$main-cl: yellow;
+$main-font: 18px;
+$main-margin: 10px 0;
+$top-header:#5d0101;
+$p-cl: #fff;
+$p-margin: 10px 0;
+body{
+	background: $main-bg;	
+		h2{
+		color: $main-cl;
+		font-size: $main-font;
+   		margin: $main-margin;
+		}
+		p{
+			color:$p-cl;
+			margin: $p-margin;
+		}
+		.top-header{
+		background: $top-header;
+		}
+}
