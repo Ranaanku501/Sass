@@ -1,10 +1,1 @@
 sass --watch sass/style.scss:css/style.css
-ekflsdklfsd
-fsdfsd
-fsd
-fsdfsdf
-sasassa
-ds
-
-sdf
-d
