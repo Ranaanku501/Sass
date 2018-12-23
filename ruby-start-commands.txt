@@ -2,4 +2,3 @@ sass --watch sass/style.scss:css/style.css
 
 
 
-Hi every one how are you
